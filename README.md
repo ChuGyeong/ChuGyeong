@@ -28,7 +28,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp -->
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuGyeong&show_icons=true&theme=shadow_blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuGyeong&layout=compact&theme=shadow_blue)
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChuGyeong&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=ChuGyeong&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuGyeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.comChuGyeong)
 
 </div>
