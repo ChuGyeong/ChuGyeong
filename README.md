@@ -19,8 +19,8 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/HTML5-534f26?style=flat-square&logo=HTML5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp   
-  <img src="https://img.shields.io/badge/Scss-cc6699?style=flat&logo=Sass&logoColor=white""/>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scss-cc6699?style=flat&logo=Sass&logoColor=white""/>
   <br> 
 <!--   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
