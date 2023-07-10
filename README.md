@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20ChuGyeong%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20ChuGyeong%20GitHub%20&animation=twinkling&fontSize=30&fontAlignY=50&fontAlign=70&height=150&fontColor=ffffff)
 <p align="center">
    <img src="https://img.shields.io/badge/HTML5-534f26?style=flat-square&logo=HTML5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 
 <br>
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=ChuGyeong&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuGyeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.comChuGyeong)
+![ChuGyeong's github stats](https://github-readme-stats.vercel.app/api?username=ChuGyeong&show_icons=true)
+[![ChuGyeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuGyeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.comChuGyeong)
 
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=80&section=footer)
 </div>
